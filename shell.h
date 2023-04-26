@@ -4,9 +4,6 @@
 
 #include <stdio.h>
 #include <stdio.h>
-#include <unstd.h>
-
-int main(int ac, char **av);
 
 
 
